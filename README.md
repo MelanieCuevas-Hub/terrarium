@@ -1,7 +1,7 @@
 # Terrarium 2024-TV
-![Terrarium Image](./images/terrarium_banner.jpg)
-
 Proyecto terrarium para Programación Web TecNM/ITGAM 🎯
+
+![Terrarium Image](./images/terrarium_banner.jpg)
 
 ## Descripcion 
 Proyecto de la clase de Programacion Web orientadado a practicar las bases del codigo HTML + CSS + JS 🧠
