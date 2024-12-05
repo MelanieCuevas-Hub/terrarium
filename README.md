@@ -1,5 +1,4 @@
 # Terrarium 2024-TV
-Proyecto terrarium para Programación Web TecNM/ITGAM 🎯
 
 ![Terrarium Image](./images/terrarium_banner.jpg)
 
